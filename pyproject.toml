@@ -1,0 +1,9 @@
+[build-system]
+requires = []
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ecology-intervention-patrol"
+version = "0.1.0"
+description = "生态保护唱词的传播效果与巡护排期"
+requires-python = ">=3.11"

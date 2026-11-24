@@ -1,0 +1,26 @@
+[
+  {
+    "event_id": "ecology_intervention_patrol-e01",
+    "period": "2026-Q1",
+    "group": "A",
+    "status": "recorded"
+  },
+  {
+    "event_id": "ecology_intervention_patrol-e02",
+    "period": "2026-Q1",
+    "group": "B",
+    "status": "recorded"
+  },
+  {
+    "event_id": "ecology_intervention_patrol-e03",
+    "period": "2026-Q2",
+    "group": "A",
+    "status": "pending"
+  },
+  {
+    "event_id": "ecology_intervention_patrol-e04",
+    "period": "2026-Q2",
+    "group": "C",
+    "status": "recorded"
+  }
+]

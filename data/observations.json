@@ -1,0 +1,20 @@
+[
+  {
+    "event_id": "ecology_intervention_patrol-e01",
+    "entity_id": "ecology_intervention_patrol-x01",
+    "value": 12,
+    "quality": "complete"
+  },
+  {
+    "event_id": "ecology_intervention_patrol-e02",
+    "entity_id": "ecology_intervention_patrol-x02",
+    "value": 8,
+    "quality": "partial"
+  },
+  {
+    "event_id": "ecology_intervention_patrol-e04",
+    "entity_id": "ecology_intervention_patrol-x03",
+    "value": null,
+    "quality": "missing"
+  }
+]
